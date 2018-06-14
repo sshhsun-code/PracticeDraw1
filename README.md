@@ -1,3 +1,15 @@
+
+>直方图：
+
+![image](http://o9m6aqy3r.bkt.clouddn.com//view/%E7%9B%B4%E6%96%B9%E5%9B%BE.png)
+
+
+>饼状图
+
+![image](http://o9m6aqy3r.bkt.clouddn.com//view/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png)
+
+
+---
 ![](images/icon.png)
 
 HenCoder 绘制 1 练习项目
